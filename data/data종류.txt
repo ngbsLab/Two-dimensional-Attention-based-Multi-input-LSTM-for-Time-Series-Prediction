@@ -1,0 +1,19 @@
+1. Russell 2000 
+
+2. DJIA(Dow Jones Industria Average)
+
+3. Nasdaq
+
+4. CSI(China Securities Index) 300 지수
+
+5. SML2010
+
+6. NASDAQ100
+
+7. Energy
+
+8. EEG : 16 개의 속성이 있으며, 그 중 14 개는 전극에서 오는 신호. 
+          국제 표준에 따라 이름이 지정. 
+          처음 두 개는 시간 영역과 보간이라고하는 신호이며 일반적으로 0
+
+9. 코스피
